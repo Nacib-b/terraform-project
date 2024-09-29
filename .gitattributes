@@ -1,0 +1,6 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+* text=auto
+# Maintenir les LF pour les fichiers texte
+*.sh text eol=lf
+*.tf text eol=lf
+.md text eol=lf

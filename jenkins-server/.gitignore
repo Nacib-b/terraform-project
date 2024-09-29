@@ -1,0 +1,10 @@
+.terraform/
+.terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/aws/5.69.0/windows_386/terraform-provider-aws_v5.69.0_x5.exe
+# Exemple de fichiers à ignorer
+*.xml
+*.pdf
+*.docx
+# Autres chemins à ignorer
+# Ignorer tous les fichiers non liés à votre projet
+../../../
